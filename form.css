@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    color: blue;
+    font-size: medium;
+    background-color: black;
+    text-align: center;
+    
+}
+ 
+    p:hover{
+    background-color: aqua;
+    color: crimson;
+} 
+#hg{
+    color: brown;
+      font-style: italic;
+}
+.thhh{
+    color:coral;
+    line-height: 1.7;
+    font-style: oblique;
+}
+body{
+    background-color: blueviolet;
+    margin: 20px;
+    padding: 20px;
+}
+#pppp{
+    color: darkgreen;
+    background-color: cornflowerblue;
+    text-align: center;
+    border-radius: 20px;
+}
+pre{
+    background-color: black;
+    padding: 15px;
+    border-radius: 8px;
+    font-size: 16px;
+    white-space: inherit;
+}
+
+h1,h2,h3,h4{
+    color: goldenrod;
+    text-align: center;
+}
+body h1{
+    background-color: black;
+    color: aliceblue;
+}
+div h6{
+    color:  rgba(255,0,0,0);
+}
